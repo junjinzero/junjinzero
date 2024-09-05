@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=2986cc&animation=twinkling&fontAlign=70&fontSize=40&text=재밌당~.~&fontColor=D0E0E3&height=200)
+![header](https://capsule-render.vercel.app/api?type=shark&color=2986cc&animation=twinkling&fontSize=40&text=재밌당~.~&fontColor=D0E0E3&height=300)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
