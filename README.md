@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=#2986cc&text=Hello-nl-World!&animation=twinkling&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=shark&color=2986cc&text=Hello-nl-World!&animation=twinkling&fontAlign=70)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
