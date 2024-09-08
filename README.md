@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=2986cc&animation=twinkling&fontSize=40&text=재밌당~.~&fontColor=D0E0E3&height=300)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junjinzero&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **junjinzero/junjinzero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
